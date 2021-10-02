@@ -1,0 +1,16 @@
+1. uname: Get detailed info on your system specifications with this command. Great place to start familiarizing yourself with Kali User Interface.
+
+2. pwd: This command prints the name of the working directory
+        A convenient way of showing the directory you’re working in. Especially useful for novices since Kali Linux has a command shell where it’s easy to 
+        get lost when you’re in the middle of something complicated.
+
+3. ls: This command Displays what each file contains and the directories they’re stored in. An easy way to view all the contents (files) contained in a directory
+        The -l  flag details each category, other than that, you can use -an attribute.
+
+4. history: Get to know all the previously used commands and attributes with history command. It lists all the previous commands you entered (stored in bash shell).
+
+5. macchanger:macchanger changes your mac address, essentially changing your identity.
+        It helps with protecting your anonymity on the internet, making your IP untraceable.
+        
+6. ifconfig :ifconfig <=> interface configuration.
+        Lets you view current network interface settings and configure them.
